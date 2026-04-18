@@ -1,0 +1,45 @@
+{
+  "group_level": {
+    "total_headcount": 34500,
+    "voluntary_turnover_rate": "12.8%",
+    "involuntary_turnover_rate": "3.2%",
+    "avg_time_to_fill_leadership": "67 days",
+    "internal_promotion_rate": "45%",
+    "cross_brand_mobility_rate": "2.3%",
+    "target_mobility_rate": "8%",
+    "employee_engagement_score": 72,
+    "leadership_pipeline_strength": "Medium",
+    "training_hours_per_employee": 32,
+    "leadership_development_budget_eur": 4200000,
+    "diversity_in_leadership_pct": "38%"
+  },
+  "brand_level": [
+    {"brand": "Gucci", "headcount": 18500, "turnover": "11.5%", "engagement": 75, "mobility_in": 12, "mobility_out": 8},
+    {"brand": "Bottega Veneta", "headcount": 3800, "turnover": "14.2%", "engagement": 69, "mobility_in": 5, "mobility_out": 7},
+    {"brand": "Balenciaga", "headcount": 2900, "turnover": "15.1%", "engagement": 67, "mobility_in": 3, "mobility_out": 6},
+    {"brand": "Saint Laurent", "headcount": 4200, "turnover": "13.0%", "engagement": 71, "mobility_in": 8, "mobility_out": 5},
+    {"brand": "Alexander McQueen", "headcount": 1200, "turnover": "16.3%", "engagement": 65, "mobility_in": 2, "mobility_out": 4},
+    {"brand": "Brioni", "headcount": 1800, "turnover": "9.8%", "engagement": 78, "mobility_in": 1, "mobility_out": 2},
+    {"brand": "Boucheron", "headcount": 950, "turnover": "10.5%", "engagement": 76, "mobility_in": 1, "mobility_out": 1},
+    {"brand": "Pomellato", "headcount": 700, "turnover": "11.0%", "engagement": 74, "mobility_in": 0, "mobility_out": 1},
+    {"brand": "Qeelin", "headcount": 450, "turnover": "13.5%", "engagement": 70, "mobility_in": 0, "mobility_out": 0}
+  ],
+  "regional": [
+    {"region": "Europe", "headcount": 21500, "turnover": "12.0%", "engagement": 73, "countries": 15},
+    {"region": "North America", "headcount": 6200, "turnover": "14.5%", "engagement": 70, "countries": 2},
+    {"region": "Asia Pacific", "headcount": 5100, "turnover": "13.2%", "engagement": 71, "countries": 8},
+    {"region": "Middle East & Africa", "headcount": 1700, "turnover": "11.8%", "engagement": 72, "countries": 6}
+  ],
+  "trends": {
+    "turnover_trend_3yr": "Rising — from 10.2% to 12.8% over 3 years",
+    "top_reasons_for_leaving": [
+      "Limited career progression (32%)",
+      "Lack of cross-brand opportunities (24%)",
+      "Compensation (18%)",
+      "Work-life balance (15%)",
+      "Manager quality (11%)"
+    ],
+    "engagement_trend_3yr": "Stable — fluctuating between 70-74",
+    "key_insight": "Talent loss is concentrated in mid-level leaders (3-7 years tenure) who see limited upward or lateral mobility"
+  }
+}

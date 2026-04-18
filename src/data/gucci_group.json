@@ -1,0 +1,57 @@
+{
+  "company": {
+    "name": "Gucci Group",
+    "type": "Luxury conglomerate",
+    "brands_count": 9,
+    "brands": [
+      {"name": "Gucci", "category": "Fashion & Leather Goods", "headquarters": "Florence, Italy", "employees": 18500},
+      {"name": "Bottega Veneta", "category": "Fashion & Leather Goods", "headquarters": "Vicenza, Italy", "employees": 3800},
+      {"name": "Balenciaga", "category": "Fashion", "headquarters": "Paris, France", "employees": 2900},
+      {"name": "Saint Laurent", "category": "Fashion", "headquarters": "Paris, France", "employees": 4200},
+      {"name": "Alexander McQueen", "category": "Fashion", "headquarters": "London, UK", "employees": 1200},
+      {"name": "Brioni", "category": "Fashion", "headquarters": "Rome, Italy", "employees": 1800},
+      {"name": "Boucheron", "category": "Jewelry & Watches", "headquarters": "Paris, France", "employees": 950},
+      {"name": "Pomellato", "category": "Jewelry", "headquarters": "Milan, Italy", "employees": 700},
+      {"name": "Qeelin", "category": "Jewelry", "headquarters": "Hong Kong", "employees": 450}
+    ]
+  },
+  "mission": "To be the most admired group of luxury brands, setting the standard for creativity, sustainability, and craftsmanship while nurturing the unique DNA of each brand.",
+  "culture": {
+    "core_values": [
+      "Creativity & Innovation — pushing boundaries while respecting heritage",
+      "Craftsmanship — obsessive attention to quality and detail",
+      "Sustainability — responsible luxury that respects people and planet",
+      "Inclusivity — diverse voices drive stronger brands",
+      "Entrepreneurship — each brand operates with autonomy and accountability"
+    ],
+    "operating_model": "Federated model — brands operate with high autonomy under a shared Group umbrella. Group provides platforms (HR, Finance, Tech) but does NOT dictate creative or commercial direction.",
+    "key_tension": "Balancing shared Group identity with brand-specific uniqueness. The Group must 'support, not impose.'"
+  },
+  "group_dna": {
+    "description": "The shared identity traits that define what it means to be a leader in the Gucci Group, regardless of brand.",
+    "pillars": [
+      "Vision — ability to see beyond the present and drive brand evolution",
+      "Entrepreneurship — owner mindset, calculated risk-taking, accountability",
+      "Passion — deep emotional connection to craft, quality, and brand heritage",
+      "Trust — integrity, transparency, empowering teams, cross-functional collaboration"
+    ],
+    "principle": "A Gucci Group leader embodies all 4 pillars but expresses them through the lens of their specific brand's DNA."
+  },
+  "strategic_priorities": [
+    "Increase cross-brand talent mobility (current: 2-3%, target: 8%)",
+    "Build a shared leadership language without homogenizing brands",
+    "Develop next-generation leaders who can lead across brands",
+    "Create a culture of continuous feedback and development",
+    "Strengthen employer brand as world's best luxury employer"
+  ],
+  "key_metrics": {
+    "total_employees": 34500,
+    "countries_of_operation": 45,
+    "annual_revenue_eur_billions": 18.7,
+    "cross_brand_mobility_rate": "2.3%",
+    "target_mobility_rate": "8%",
+    "avg_tenure_years": 6.2,
+    "leadership_positions": 1250,
+    "leadership_vacancies_filled_internally": "45%"
+  }
+}

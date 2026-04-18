@@ -1,0 +1,144 @@
+{
+  "framework_name": "Gucci Group Leadership Competency Framework",
+  "version": "2.0",
+  "themes": [
+    {
+      "name": "Vision",
+      "description": "Ability to see the bigger picture, strategic thinking, anticipating trends",
+      "levels": {
+        "Associate": {
+          "behavior_indicators": [
+            "Understands and can articulate the brand's market position",
+            "Identifies emerging trends relevant to their function",
+            "Connects daily work to broader brand and Group strategy",
+            "Asks strategic questions in team discussions"
+          ]
+        },
+        "Mid": {
+          "behavior_indicators": [
+            "Translates Group strategy into actionable functional plans",
+            "Anticipates market shifts and proactively adapts team priorities",
+            "Builds cross-functional alignment on strategic initiatives",
+            "Mentors associates on strategic thinking"
+          ]
+        },
+        "Senior": {
+          "behavior_indicators": [
+            "Shapes the brand's long-term strategic direction",
+            "Identifies transformative opportunities that create competitive advantage",
+            "Influences Group-level strategy through data-driven insights",
+            "Builds organizational capability for strategic agility"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Entrepreneurship",
+      "description": "Innovation mindset, calculated risk-taking, business acumen",
+      "levels": {
+        "Associate": {
+          "behavior_indicators": [
+            "Proposes incremental improvements to existing processes",
+            "Takes ownership of small projects and delivers results",
+            "Demonstrates curiosity about P&L impact of decisions",
+            "Learns from failures without being risk-averse"
+          ]
+        },
+        "Mid": {
+          "behavior_indicators": [
+            "Launches new initiatives that generate measurable business value",
+            "Makes data-informed decisions balancing risk and reward",
+            "Manages budgets and resources with an owner's mindset",
+            "Champions innovation that creates new revenue streams while protecting brand equity"
+          ]
+        },
+        "Senior": {
+          "behavior_indicators": [
+            "Drives business model innovation at brand or Group level",
+            "Creates an environment where calculated risk-taking is celebrated",
+            "Builds strategic partnerships that expand market reach",
+            "Balances short-term performance with long-term brand building"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Passion",
+      "description": "Deep commitment to craft and brand, emotional connection to quality",
+      "levels": {
+        "Associate": {
+          "behavior_indicators": [
+            "Demonstrates genuine enthusiasm for the brand's products and heritage",
+            "Go the extra mile on quality and attention to detail",
+            "Actively learns about the brand's history and DNA",
+            "Represents the brand authentically in all interactions"
+          ]
+        },
+        "Mid": {
+          "behavior_indicators": [
+            "Inspires team members with visible commitment to craft excellence",
+            "Protects brand standards even under commercial pressure",
+            "Connects product quality to customer experience and brand loyalty",
+            "Creates rituals that celebrate craftsmanship within the team"
+          ]
+        },
+        "Senior": {
+          "behavior_indicators": [
+            "Serves as a cultural ambassador for the brand's heritage and values",
+            "Balances passion for tradition with openness to creative evolution",
+            "Builds an organizational culture where quality is non-negotiable",
+            "Inspires the next generation of brand stewards"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Trust",
+      "description": "Building relationships, integrity, transparency, empowering teams",
+      "levels": {
+        "Associate": {
+          "behavior_indicators": [
+            "Communicates openly and honestly with peers and managers",
+            "Follows through on commitments consistently",
+            "Seeks and provides constructive feedback",
+            "Builds collaborative relationships across functions"
+          ]
+        },
+        "Mid": {
+          "behavior_indicators": [
+            "Creates psychologically safe environments for team members",
+            "Delegates effectively and empowers direct reports",
+            "Navigates conflicts with integrity and fairness",
+            "Builds trust across brand boundaries through consistent behavior"
+          ]
+        },
+        "Senior": {
+          "behavior_indicators": [
+            "Models transparency at the organizational level",
+            "Builds and maintains trust with external stakeholders (board, partners)",
+            "Creates governance structures that balance autonomy with accountability",
+            "Champions diversity, equity, and inclusion as trust multipliers"
+          ]
+        }
+      }
+    }
+  ],
+  "use_cases": [
+    {
+      "name": "Recruitment & Selection",
+      "description": "Competency-based interview frameworks for each level, ensuring culture fit with Group DNA while respecting brand-specific needs"
+    },
+    {
+      "name": "Performance Appraisal",
+      "description": "Annual and mid-year reviews mapped to the 4 themes, with level-appropriate expectations and development feedback"
+    },
+    {
+      "name": "Development Planning",
+      "description": "Individual development plans targeting growth from current level to next, with specific behavior milestones"
+    },
+    {
+      "name": "Inter-Brand Mobility",
+      "description": "Assessment criteria for cross-brand transfers, ensuring leaders can adapt their competencies to a new brand context"
+    }
+  ]
+}

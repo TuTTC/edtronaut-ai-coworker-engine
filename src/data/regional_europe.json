@@ -1,0 +1,121 @@
+{
+  "region": "Europe",
+  "total_countries": 15,
+  "total_headcount": 21500,
+  "key_markets": [
+    {
+      "country": "Italy",
+      "headcount": 7200,
+      "brands_present": ["Gucci", "Bottega Veneta", "Brioni", "Pomellato"],
+      "hr_readiness": "High — strong HR leads with informal competency assessment experience",
+      "language": "Italian",
+      "cultural_notes": "Coaching concept still emerging in corporate culture. Strong craft tradition — competency framework resonates with 'Passion' theme.",
+      "key_challenges": ["Unionized workforce complicates new assessment processes", "Generational gap in leadership styles"]
+    },
+    {
+      "country": "France",
+      "headcount": 5800,
+      "brands_present": ["Balenciaga", "Saint Laurent", "Boucheron"],
+      "hr_readiness": "High — experienced with structured HR processes",
+      "language": "French",
+      "cultural_notes": "GDPR has specific implications for 360° feedback. Strong emphasis on privacy and data protection.",
+      "key_challenges": ["360° feedback has strict GDPR/data privacy requirements", "French labor law requires works council consultation for new assessment frameworks"]
+    },
+    {
+      "country": "United Kingdom",
+      "headcount": 2800,
+      "brands_present": ["Alexander McQueen", "Gucci"],
+      "hr_readiness": "Medium-High — familiar with competency models but implementation varies",
+      "language": "English",
+      "cultural_notes": "Receptive to 360° feedback. Strong coaching culture.",
+      "key_challenges": ["Post-Brexit talent mobility complications", "High cost of living driving turnover in London"]
+    },
+    {
+      "country": "Germany",
+      "headcount": 1800,
+      "brands_present": ["Gucci", "Saint Laurent"],
+      "hr_readiness": "Medium — operationally focused HR",
+      "language": "German",
+      "cultural_notes": "Direct feedback culture, but formal processes preferred. Works councils are powerful.",
+      "key_challenges": ["3 brand managers have pushed back on new framework as 'HQ imposition'", "Works council must approve new competency processes"]
+    },
+    {
+      "country": "Switzerland",
+      "headcount": 1200,
+      "brands_present": ["Gucci", "Bottega Veneta"],
+      "hr_readiness": "Medium-High",
+      "language": "German/French/Italian",
+      "cultural_notes": "Multi-lingual environment makes single-format workshops difficult.",
+      "key_challenges": ["Three official languages require multi-lingual materials", "High expectations for process quality"]
+    },
+    {
+      "country": "Nordics (Sweden, Denmark, Norway, Finland)",
+      "headcount": 900,
+      "brands_present": ["Gucci"],
+      "hr_readiness": "Low-Medium — smaller, operationally focused HR teams",
+      "language": "English (working), Local languages",
+      "cultural_notes": "Flat hierarchy culture may clash with 3-level competency model. Strong focus on work-life balance.",
+      "key_challenges": ["Small teams need at least 2-day certification before facilitating", "Remote locations for some stores"]
+    },
+    {
+      "country": "Eastern Europe (Poland, Czech Republic, Romania)",
+      "headcount": 800,
+      "brands_present": ["Gucci"],
+      "hr_readiness": "Low — purely operational HR, limited competency assessment experience",
+      "language": "Local languages, English",
+      "cultural_notes": "Growing markets with young, ambitious teams. Open to structured development.",
+      "key_challenges": ["No prior competency framework experience", "Need extensive training before rollout", "Language barriers for English-only materials"]
+    },
+    {
+      "country": "Spain & Portugal",
+      "headcount": 1000,
+      "brands_present": ["Gucci", "Balenciaga"],
+      "hr_readiness": "Medium",
+      "language": "Spanish/Portuguese",
+      "cultural_notes": "Warm relational culture — Trust theme resonates strongly.",
+      "key_challenges": ["Part-time workforce complicates competency assessment scheduling"]
+    }
+  ],
+  "rollout_challenges": {
+    "summary": "Europe is not monolithic. A phased, region-adapted approach is essential.",
+    "top_risks": [
+      "Brand identity dilution — managers seeing framework as 'HQ imposing one-size-fits-all'",
+      "Language diversity — materials need translation to 8+ languages",
+      "Regulatory compliance — GDPR (France), works councils (Germany), labor law (Italy)",
+      "Budget constraints — cannot pilot all countries simultaneously",
+      "Trainer readiness — Nordics and Eastern Europe need pre-certification"
+    ],
+    "recommended_pilot_wave": {
+      "wave_1": ["Italy", "France", "UK"],
+      "wave_2": ["Germany", "Switzerland", "Spain & Portugal"],
+      "wave_3": ["Nordics", "Eastern Europe"]
+    }
+  },
+  "trainer_profile": {
+    "requirements": [
+      "Bilingual capability (English + local language)",
+      "Brand knowledge — understanding of at least 2 Group brands",
+      "Coaching certification (ICF ACC or equivalent)",
+      "Experience facilitating leadership workshops (2+ years)",
+      "Cultural sensitivity training"
+    ],
+    "current_trainers_available": 12,
+    "trainers_needed_wave_1": 25,
+    "certification_program_duration": "2-day intensive + 1 day shadowing"
+  },
+  "kpi_framework": {
+    "leading_indicators": [
+      "Workshop participation rate (target: >90%)",
+      "Trainer certification completion rate",
+      "Manager awareness survey score",
+      "Self-assessment completion rate"
+    ],
+    "lagging_indicators": [
+      "Cross-brand mobility rate (current: 2.3%, target: 8%)",
+      "Leadership pipeline strength score",
+      "Employee retention rate for high-potentials",
+      "360° feedback response rate",
+      "Internal promotion rate improvement"
+    ]
+  }
+}
