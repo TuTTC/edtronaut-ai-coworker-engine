@@ -99,6 +99,3 @@ The system reacts dynamically to your leadership style.
 ---
 
 
-
----
-Developed by [Your Name] - AI Engineer Intern Take-home Assignment.
